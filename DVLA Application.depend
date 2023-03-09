@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678286549 source:/home/mykel/Documents/CompE/Sem5/OOP/DVLA Application/main.cpp
+	<iostream>
+	<string>
+	<time.h>
+
